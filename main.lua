@@ -7,8 +7,7 @@ local HUD = game:GetService("Players").LocalPlayer.PlayerGui.ScreenGui
 local msgs = {}
 local globalData = {}
 local botUrl =
-    "https://api.telegram.org/bot6719504593:AAGPulBE_sEZDw9vy6Fn-dH5H0CLtZd0i4o/"
--- 6719504593:AAGPulBE_sEZDw9vy6Fn-dH5H0CLtZd0i4o
+    "https://api.telegram.org/bot<nah>"
 local chat_id = -1002052362323
 local debug = false
 print("startup")
